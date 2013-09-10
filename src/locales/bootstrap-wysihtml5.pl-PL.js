@@ -20,8 +20,8 @@
         lists: {
             unordered: "Lista wypunktowana",
             ordered: "Lista numerowana",
-            outdent: "Zwiększ wcięcie",
-            indent: "Zmniejsz wcięcie"
+            outdent: "Zmniejsz wcięcie",
+            indent: "Zwiększ wcięcie"
         },
         link: {
             insert: "Wstaw odnośnik",
