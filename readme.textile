@@ -1,3 +1,5 @@
+**This repo is no longer maintained. "bootstrap3-wysiwyg":https://github.com/bootstrap-wysiwyg/bootstrap3-wysiwyg is much better**
+
 h1. Overview
 
 Bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of "wysihtml5":https://github.com/xing/wysihtml5 and "Twitter Bootstrap":http://twitter.github.com/bootstrap/.
